@@ -10,7 +10,7 @@ const Home = () => {
 
 
         <div >
-            <Navbar />
+            
             <div >
                 <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center' }}>
                     <div>
