@@ -10,8 +10,9 @@ const App = () => {
     <div style={{ backgroundColor: 'CaptionText' }}>
 
 
-      <Navbar />
-      <BrowserRouter>
+    
+     <BrowserRouter>
+    <Navbar />
         <div>    
            <Home />
           <Projects />
