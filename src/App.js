@@ -9,7 +9,7 @@ const App = () => {
     <div style={{ backgroundColor: 'CaptionText' }}>
 
 
-
+      <Navbar />
       <BrowserRouter>
         <div>    
            <Home />
