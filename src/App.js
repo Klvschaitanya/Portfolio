@@ -4,6 +4,7 @@ import Projects from './components/Projects'
 import Academics from './components/Academics'
 import Home from './components/Home';
 import Contact from './components/Contact'
+import Navbar from './components/Navbar';
 const App = () => {
   return (
     <div style={{ backgroundColor: 'CaptionText' }}>
