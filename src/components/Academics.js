@@ -11,7 +11,7 @@ const Academics = () => {
   <h3 style={{color:'lightcyan'}}>Bachelor of Technology in Computer Science and Engineering</h3>
   <h4 style={{color:'rosybrown'}}>DRK College of Engineering and Technology, Hyderabad</h4>
   <h5 style={{color:'chartreuse'}}>July 2020 - September 2024</h5>
-  <h5 style={{color:'cornflowerblue'}}>Percentage/CGPA: <span style={{color:'lavender'}}>62%</span></h5>
+  <h5 style={{color:'cornflowerblue'}}>Percentage/CGPA: <span style={{color:'lavender'}}>64%</span></h5> 
 </div>
 <br/>
 <div>
