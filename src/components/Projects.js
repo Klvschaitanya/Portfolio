@@ -42,15 +42,19 @@ const Projects = () => {
 
                 <div style={{ margin: '50px', border: '1px solid white', padding: '20px', borderRadius: '15px' }}>
                   <div style={{ display: 'flex', flexDirection: 'row',justifyContent:'space-between' }} >
-                  <h3 style={{ color: 'darkkhaki' }}> React Calculator  </h3>
+                  <h3 style={{ color: 'darkkhaki' }}> Task Manager  </h3>
                   <div>
-                            <a href='https://github.com/Klvschaitanya/Calculator'><img src='https://media.licdn.com/dms/image/v2/C560BAQFmuLSyL1nlPA/company-logo_200_200/company-logo_200_200/0/1678231359043/github_logo?e=2147483647&v=beta&t=2RO1zjla4T-YiOqKS50e4sc9n8RAgnUqGqu0mcZp5fU' alt='gitHub' height={40} style={{ borderRadius: '10px' }} /></a>
+                            <a href='https://github.com/Klvschaitanya/Taskmanager'><img src='https://media.licdn.com/dms/image/v2/C560BAQFmuLSyL1nlPA/company-logo_200_200/company-logo_200_200/0/1678231359043/github_logo?e=2147483647&v=beta&t=2RO1zjla4T-YiOqKS50e4sc9n8RAgnUqGqu0mcZp5fU' alt='gitHub' height={40} style={{ borderRadius: '10px' }} /></a>
                         </div>
                   </div>  <br/>
-                    <p style={{ color: 'white' }}>The React Calculator project is a simple and interactive calculator built using React, designed to perform basic arithmetic operations. This project is an excellent addition to your portfolio, demonstrating your skills in building dynamic user interfaces and managing state in React.</p>
+                    <p style={{ color: 'white' }}>Developed a full-stack Task Manager Application to manage tasks effectively, 
+enabling users to create, update, and delete tasks. The application provides a user-friendly 
+interface with a responsive design and seamless interaction.</p>
                     <ul>
-                        <li style={{ color: 'white' }}><b>Real-time Calculations</b>:Displays results as the user inputs values, providing an interactive experience.</li>
-                        <li style={{ color: 'white' }}><b>Clear Button</b>:Resets the calculator's display and clears the current calculation.</li>
+                        <li style={{ color: 'white' }}><b>Task Management </b>:Add, edit, and delete tasks seamlessly, enabling users to stay organized and productive.</li>
+                        <li style={{ color: 'white' }}><b>Real-Time Updates</b>:Reflects changes instantly as users add or modify tasks, providing a responsive and interactive experience.
+
+</li>
                         <li style={{ color: 'white' }}><b>Responsive Design</b>:Adapts to various screen sizes, ensuring usability on both mobile and desktop devices.</li>
 
                     </ul>
